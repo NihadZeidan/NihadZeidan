@@ -3,6 +3,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NihadZeidan&theme=dark&show_icons=true)](https://github.com/NihadZeidan)
 [![Nihad's GitHub stats](https://github-readme-stats.vercel.app/api?username=NihadZeidan&theme=dark&show_icons=true)](https://github.com/NihadZeidan)
 
-<a href="https://www.linkedin.com/in/nihadzeidan/"> <img src="https://image.flaticon.com/icons/png/512/38/38669.png" /></a> 
+<a href="https://www.linkedin.com/in/nihadzeidan/"> <img style="width: 50px; height: 50px;" src="https://ricardoreadingmouse.com.au/wp-content/uploads/2018/04/linkedin-logo-copy.png" /></a> 
 
 
