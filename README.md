@@ -3,7 +3,7 @@
 [![Nihad's GitHub stats](https://github-readme-stats.vercel.app/api?username=NihadZeidan&theme=dark&show_icons=true&show_owner=true&&hide=stars,issues)](https://github.com/NihadZeidan)
 
 
-## Visit my :
+
  <br />
 
  <a href="https://www.linkedin.com/in/nihadzeidan/" target="_blank"> <img width="40px" height="40px" src="https://acorjordan.org/wp-content/uploads/2019/11/linkedin-logo.png" /> </a>
