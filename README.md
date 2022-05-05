@@ -4,9 +4,6 @@
 <br />
 <hr/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihadzeidan&theme=dark" alt="nihadzeidan" /></p>
-
-
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
@@ -30,5 +27,5 @@
 <br />
 <hr/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihadzeidan&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="nihadzeidan" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihadzeidan&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="nihadzeidan" /></p>
 
