@@ -1,5 +1,5 @@
 <h1 align="center">Hello 🙋‍♂️, This is Nihad Zeidan</h1>
-<h3 align="center">Jr. Software Developer, who believes in the power of technical solutions for better communities.</h3>
+<h3 align="center">Jr. Software Developer, who believes in the power of technology for a better world 🌎</h3>
 
 <br />
 <hr/>
