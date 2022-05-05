@@ -6,15 +6,15 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/nihadzeidan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nihadzeidan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nihadzeidan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nihadzeidan" height="30" width="40" /></a> 
-</p>
-
-<br/>
-<p align="center">
   📫 <a href="mailto: nihadzeidan@gmail.com">nihadzeidan@gmail.com</a>
 </p>
 
+<br/>
+
+<p align="center">
+<a href="https://linkedin.com/in/nihadzeidan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nihadzeidan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nihadzeidan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nihadzeidan" height="30" width="40" /></a> 
+</p>
 
 
 <br />
