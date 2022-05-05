@@ -2,7 +2,6 @@
 <h3 align="center">Jr. Software Developer, who believes in the power of technology for a better world 🌎</h3>
 
 <br />
-<hr/>
 
 <h3 align="center">Connect with me:</h3>
 
