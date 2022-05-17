@@ -5,7 +5,7 @@
 
 <br />
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect:</h3>
 
 <p align="center">
   📫 <a href="mailto: nihadzeidan@gmail.com">nihadzeidan@gmail.com</a>
