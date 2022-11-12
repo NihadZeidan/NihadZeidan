@@ -1,5 +1,5 @@
 <h1 align="center">Hello 🙋‍♂️, This is Nihad Zeidan</h1>
-<h3 align="center">Jr. Software Developer, who believes in the power of technology for a better world 🌎</h3>
+<h3 align="center">Software Developer, who believes in the power of technology for a better world 🌎</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nihadzeidan&label=Profile%20views&color=000000&style=plastic" alt="nihadzeidan" /> </p>
 
