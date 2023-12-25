@@ -1,11 +1,8 @@
-<h1 align="center">Hello 🙋‍♂️, This is Nihad Zeidan</h1>
-<h3 align="center">Software Developer, who believes in the power of technology for a better world 🌎</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nihadzeidan&label=Profile%20views&color=000000&style=plastic" alt="nihadzeidan" /> </p>
+<p align="center"> 
+<a href="https://app.daily.dev/nzeidan"><img src="https://api.daily.dev/devcards/6d065dcd81b044f2a97fc06c129d8464.png?r=6eo" width="400" alt="Nihad Zeidan's Dev Card"/></a>
+</p>
 
 <br />
-
-<h3 align="center">Connect:</h3>
 
 <p align="center">
   📫 <a href="mailto: nihadzeidan@gmail.com">nihadzeidan@gmail.com</a>
@@ -17,6 +14,8 @@
 <a href="https://linkedin.com/in/nihadzeidan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nihadzeidan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nihadzeidan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nihadzeidan" height="30" width="40" /></a> 
 </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nihadzeidan&label=Profile%20views&color=000000&style=plastic" alt="nihadzeidan" /> </p>
 
 
 <br />
