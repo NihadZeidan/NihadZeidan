@@ -1,9 +1,3 @@
-<p align="center"> 
-<a href="https://app.daily.dev/nzeidan"><img src="https://api.daily.dev/devcards/6d065dcd81b044f2a97fc06c129d8464.png?r=6eo" width="400" alt="Nihad Zeidan's Dev Card"/></a>
-</p>
-
-<br />
-
 <p align="center">
   📫 <a href="mailto: nihadzeidan@gmail.com">nihadzeidan@gmail.com</a>
 </p>
@@ -15,10 +9,7 @@
 <a href="https://www.leetcode.com/nihadzeidan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nihadzeidan" height="30" width="40" /></a> 
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nihadzeidan&label=Profile%20views&color=000000&style=plastic" alt="nihadzeidan" /> </p>
 
-
-<br />
 <hr/>
 
 <h3 align="center">Languages and Tools:</h3>
