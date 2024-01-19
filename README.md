@@ -1,14 +1,48 @@
 <br/>
 
 <p align="center">
-  📫 <a href="mailto: nihadzeidan@gmail.com">nihadzeidan@gmail.com</a>
+  <a 
+    href="https://app.daily.dev/nzeidan"
+    target="blank">
+    <img 
+      src="./devcard.svg"
+      width="300" 
+      alt="Nihad Zeidan's Dev Card"/>
+  </a>
 </p>
 
 <br/>
 
 <p align="center">
-<a href="https://linkedin.com/in/nihadzeidan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nihadzeidan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nihadzeidan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nihadzeidan" height="30" width="40" /></a> 
+<a 
+  href="https://linkedin.com/in/nihadzeidan" 
+  target="blank">
+  <img 
+    align="center"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+    alt="nihad's linkedin"
+    height="30"
+    width="40" />
+</a>
+<a 
+  href="https://www.leetcode.com/nihadzeidan" 
+  target="blank">
+  <img 
+    align="center" 
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
+    alt="nihad's leetcode" 
+    height="30"
+    width="40" />
+</a>
+ <a href="mailto: nihadzeidan@gmail.com">
+    <img 
+      align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png"
+      alt="nihad's email" 
+      height="30" 
+      width="40"
+      />
+  </a>
 </p>
 
 
