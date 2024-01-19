@@ -8,7 +8,7 @@
     target=”_blank”>
     <img 
       src="./devcard.svg"
-      width="300" 
+      width="250" 
       alt="Nihad Zeidan's Dev Card"/>
   </a>
   
