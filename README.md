@@ -3,7 +3,7 @@
 <p align="center">
   <a 
     href="https://app.daily.dev/nzeidan"
-    target="_blank">
+    target=”_blank”>
     <img 
       src="./devcard.svg"
       width="300" 
@@ -16,7 +16,7 @@
 <p align="center">
 <a 
   href="https://linkedin.com/in/nihadzeidan" 
-  target="_blank">
+  target=”_blank”>
   <img 
     align="center"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
@@ -26,7 +26,7 @@
 </a>
 <a 
   href="https://www.leetcode.com/nihadzeidan" 
-  target="_blank">
+  target=”_blank”>
   <img 
     align="center" 
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
