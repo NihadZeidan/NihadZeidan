@@ -7,8 +7,8 @@
     href="https://app.daily.dev/nzeidan"
     target=”_blank”>
     <img 
-      src="./devcard.svg"
-      width="300" 
+      src="./devcard.png"
+      width="300"
       alt="Nihad Zeidan's Dev Card"/>
   </a>
   
