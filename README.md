@@ -1,5 +1,4 @@
 <hr/>
-
 <br />
 
 <div align="center">
@@ -11,7 +10,6 @@
       width="300"
       alt="Nihad Zeidan's Dev Card"/>
   </a>
-  
 </div>
 
 <br/>
@@ -20,34 +18,30 @@
 <a 
   href="https://linkedin.com/in/nihadzeidan" 
   target=”_blank”>
-  <img 
-    align="center"
+  <img
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
     alt="nihad's linkedin"
     height="30"
     width="40" />
 </a>
+&nbsp;
 <a 
   href="https://www.leetcode.com/nihadzeidan" 
   target=”_blank”>
-  <img 
-    align="center" 
+  <img
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
     alt="nihad's leetcode" 
     height="30"
     width="40" />
 </a>
+&nbsp;
  <a href="mailto: nihadzeidan@gmail.com">
-    <img 
-      align="center"
+    <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png"
       alt="nihad's email" 
       height="30" 
       width="40"
-      />
-  </a>
+    />
+</a>
+
 </div>
-
-<br />
-
-<hr/>
