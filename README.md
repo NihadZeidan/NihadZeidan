@@ -24,7 +24,6 @@
     height="30"
     width="40" />
 </a>
-&nbsp;
 <a 
   href="https://www.leetcode.com/nihadzeidan" 
   target=”_blank”>
@@ -34,7 +33,6 @@
     height="30"
     width="40" />
 </a>
-&nbsp;
  <a href="mailto: nihadzeidan@gmail.com">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png"
@@ -43,5 +41,4 @@
       width="40"
     />
 </a>
-
 </div>
